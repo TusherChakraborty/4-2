@@ -1,0 +1,17 @@
+Machine Learning(CSE471+CSE472)
+-------------------------------
+1. Machine Learning - Tom Mitchell
+
+Economics(HUM275)
+-----------------
+1. Microeconomic Theory - Richard A. Bilas
+2. Modern Economic Theory - K.K. Dewett
+3. Schaum's Series:
+	a. Microeconomic Theory
+	b. Macroeconomic Theory
+4. Modern Microeconomics - A. Koutsoyiannis
+
+Financial and Managerial Accounting(HUM371)
+-------------------------------------------
+1. Accounting Principles - Weygandt, Kieso, Kimmel
+2. Accounting Principles - James Bakul Sarkar, Farjana Yeshmin
