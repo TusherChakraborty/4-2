@@ -2,6 +2,12 @@ Machine Learning(CSE471+CSE472)
 -------------------------------
 1. Machine Learning - Tom Mitchell
 
+Pattern Recognition(CSE473+474)
+-------------------------------
+1. Pattern Recognition - S. Theodoridis & K. Koutrumbas
+2. Pattern Classification - R. O. Duda, D. G. Stork, P. E. Hart
+3. Pattern Recognition: Statistical, Structural and Neural Approaches - R. Shalkoff
+
 Economics(HUM275)
 -----------------
 1. Microeconomic Theory - Richard A. Bilas
