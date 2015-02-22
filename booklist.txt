@@ -7,6 +7,7 @@ Pattern Recognition(CSE473+474)
 1. Pattern Recognition - S. Theodoridis & K. Koutrumbas
 2. Pattern Classification - R. O. Duda, D. G. Stork, P. E. Hart
 3. Pattern Recognition: Statistical, Structural and Neural Approaches - R. Shalkoff
+4. Introduction to Data Mining - Pang-Ning Tan, Michael Steinbach, Vipin Kumar
 
 Economics(HUM275)
 -----------------
@@ -21,3 +22,4 @@ Financial and Managerial Accounting(HUM371)
 -------------------------------------------
 1. Accounting Principles - Weygandt, Kieso, Kimmel
 2. Accounting Principles - James Bakul Sarkar, Farjana Yeshmin
+3. Managerial Accounting - Garrison / Norren 13th Edition
