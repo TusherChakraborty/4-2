@@ -1,6 +1,7 @@
 Machine Learning(CSE471+CSE472)
 -------------------------------
 1. Machine Learning - Tom Mitchell
+2. Machine Learning - Christopher M. Bishop
 
 Pattern Recognition(CSE473+474)
 -------------------------------
