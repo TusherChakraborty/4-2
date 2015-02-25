@@ -1,0 +1,83 @@
+\documentclass{article}
+
+\usepackage{color}
+
+\begin{document}
+
+\title{\textcolor{red}{Up and Running with OpenGL in Windows}}
+\author{Nazmus Saquib}
+\maketitle
+
+\section{Disclaimer}
+The first thing I need to say is I don't support the approach of OpenGL that is being taught to us.
+It is generally considered the ``legacy approach'', or some might even say ``deprecated''.
+If you are someone who is into professional game development or highly intereseted in graphics,
+take a look around the net - there are plenty of resources where they talk about modern approach of OpenGL.
+As a bonus, if your target platform is the web i.e. building browser based games / graphics,
+check out WebGL at your free time.
+
+That being said, let's see how to setup OpenGL.
+
+\section{Assumptions}
+One misconception I've obsereved among people is that you need Visual Studio to code for OpenGL in windows.
+That is not correct at all.
+You can use pretty much any IDE you want, as long as you have a compiler you are golden.
+Personally I use Vim as my text editor and MinGW compiler as the C/C++ compiler.
+I would strongly suggest MinGW, as it comes packaged with the GNU make utility.
+If you have CodeBlocks installed, chances are you already have minGW compiler.
+But of course you are free to use any compiler you like.
+
+I am going to assume the following:
+\begin{enumerate}
+\item You are a windows 32 bit user.
+\item You have a C/C++ compiler installed.
+\item The compiler's bin folder is in system's path.
+\item I am going to term the compiler's home folder as $\langle$COMPILER\_HOME$\rangle$.
+In my case this happens to be 
+\begin{verbatim}
+	C:\Program Files\CodeBlocks\MinGW
+\end{verbatim}
+\end{enumerate}
+
+\section{Setup}
+Inside the folder named \textbf{setup-files} you will find the necessary files.
+Perform the following steps:
+\begin{enumerate}
+\item copy \textbf{glut.h} to \textbf{COMPILER\_HOME\textbackslash include\textbackslash GL}.
+\item copy \textbf{libglut32.a} to \textbf{COMPILER\_HOME\textbackslash lib}.
+\item copy \textbf{glut32.dll} to \textbf{C:\textbackslash Windows\textbackslash System32}.
+Note that you might need to provide administrative clearance.
+\end{enumerate}
+
+
+\section{Verify Installation}
+I have provided a c source code in the file \textbf{test.c}.
+As different people will be using different IDE's, I can't really say how to configure them.
+I personally prefer the command line.
+Make sure you are in the folder containing the source code, launch cmd and type in the following:
+\begin{verbatim}
+	gcc -o test.exe test.c -lglut32 -lglu32 -lopengl32
+\end{verbatim}
+To run the program invoke (notice we leave the exe part):
+\begin{verbatim}
+.\test
+\end{verbatim}
+If you see a blue window, congrats - you've succesfully setup an OpenGL development environment!
+
+To clarify the commands:
+\begin{itemize}
+\item \textbf{gcc}: I am using a gcc compiler, hence gcc. If the source code was in C++ I would have invoked g++.
+If you are using a different compiler see its manual on how to invoke it.
+\item \textbf{-o test.exe}: I want the output file (hence the -o) to have the name test.exe (hence it follows -o).
+\item \textbf{test.c}: the name of the file containing source code.
+\item \textbf{-lglut32 -lglu32 -lopengl32}: link (hence the -l) the glut32, glu32 and opengl32 libraries.
+Note that they do not have to appear in any particular sequence.
+Further note that we won't always need all these three libraries - but just to be safe better to keep these.
+\end{itemize}
+
+If all of this seems a lot of writing to you, just create a batch script or a makefile.
+Personally I'm not a big fan of batch script, so I've added a sample makefile in the \textbf{setup-files} folder.
+Note that the makefile might not work in your system if you don't have certain unix commands ported to windows.
+Then again, if you are using an IDE you won't even need that.
+
+\end{document}
