@@ -1,0 +1,12 @@
+CSE409(Computer Graphics) CT-1:
+-------------------------------
+Schedule: 07-03-2015, Saturday, 8:00 AM
+Syllabus:
+	Everything taught upto class of 04-03-2015 by Rabban Vai
+
+
+CSE471(Machine Learning) CT-2:
+------------------------------
+Schedule: 11-03-2015, Wednesday, 8:00 AM
+Syllabus:
+	Pending
