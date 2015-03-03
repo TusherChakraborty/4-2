@@ -5,6 +5,7 @@ Computer Graphics(CSE409+CSE410)
 	-> writers might be different according to edition/title, but the above 4 should be common 
 	-> I personally happen to have the one "in C"
 2. Computer Graphics from Schaum's Series
+3. Computer Graphics using OpenGL - F. S. Hill Jr.
 
 My personal suggestion for OpenGL - the red book.
 Google should provide you with an online html copy.
