@@ -2,7 +2,8 @@ CSE409(Computer Graphics) CT-1:
 -------------------------------
 Schedule: 07-03-2015, Saturday, 8:00 AM
 Syllabus:
-	Everything taught upto class of 04-03-2015 by Rabban Vai
+	Schaum's chapter 4 and 6
+	Modelling Transformation.ppt (first 105 slides excluding Euerian Angles)
 
 
 CSE471(Machine Learning) CT-1:
