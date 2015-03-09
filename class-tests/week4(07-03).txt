@@ -10,4 +10,6 @@ CSE471(Machine Learning) CT-1:
 ------------------------------
 Schedule: 11-03-2015, Wednesday, 8:00 AM
 Syllabus:
-	Pending
+	According to Tom M. Mitchell-
+		chapter 2 full
+		chapter 3 just before 3.6 (page 1-14 of ch3.pdf)
