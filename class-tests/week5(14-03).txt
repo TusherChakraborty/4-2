@@ -3,8 +3,29 @@ CSE473(Pattern Recognition) CT-1:
 Schedule: 14-03-2015, Saturday, 8:00 AM
 Syllabus:
 	According to Sir upto Support Vector Machine (exclusive)
-	That puts us upto 37 no. slide of PR-Jan15-07.ppt
+	That puts us upto 47 no. slide of PR-Jan15-06.ppt
+Reference Convention:
+	TK - Theodoridis / Koutroumbas
+	DHS - Duda / Hart / Stork
+	TKS - Tan / Kumar / Steinbach
 Reference:
-	->Will be updated as I study each slide
-	->Roughly it seems the bulk amount will match
-          from chapter 2 and 3 of Theodoridis / Koutroumbas
+	->Will be updating as I study each slide
+	->VERY IMPORTANT: exact mappings were not possible, keep slides around
+
+	->PR-Jan15-01.ppt:
+		*TK - 1.1, 1.2, 1.3
+		*DHS - 1.2, 1.3, 1.4, 1.5
+	->PR-Jan15-02.ppt:
+		*DHS - 2.1, 2.2, 2.3 (exclude internal subsubsections)
+	->PR-Jan15-03.ppt:
+		*DHS - 2.4, 2.5 (upto page 34 - statisitical independence inclusive)
+		*TKS - 5.3 (for the classification example 2)
+	->PR-Jan15-04.ppt:
+		*TKS - 5.3.5 (example of Bayesian Belief Network)
+			   N.B. - if interested for more example see DHS 2.11
+	->PR-Jan15-05.ppt:
+		*TK - 3.2, 3.3
+		*DHS - 5.2.1 (the figure of slide 41)
+		*TKS - 5.3.5 (example of Bayesian Belief Network)
+	->PR-Jan15-06.ppt:
+		*things are still a bit blurry...
