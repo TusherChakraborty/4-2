@@ -1,0 +1,10 @@
+CSE473(Pattern Recognition) CT-1:
+---------------------------------
+Schedule: 14-03-2015, Saturday, 8:00 AM
+Syllabus:
+	According to Sir upto Support Vector Machine (exclusive)
+	That puts us upto 37 no. slide of PR-Jan15-07.ppt
+Reference:
+	->Will be updated as I study each slide
+	->Roughly it seems the bulk amount will match
+          from chapter 2 and 3 of Theodoridis / Koutroumbas
