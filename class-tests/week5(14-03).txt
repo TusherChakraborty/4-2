@@ -5,8 +5,8 @@ Syllabus:
 	According to Sir upto Support Vector Machine (exclusive)
 	That puts us upto 47 no. slide of PR-Jan15-06.ppt
 Reference Convention:
-	TK - Theodoridis / Koutroumbas
-	DHS - Duda / Hart / Stork
+	TK - Theodoridis / Koutroumbas, 2nd Edition
+	DHS - Duda / Hart / Stork, 2nd Edition
 	TKS - Tan / Kumar / Steinbach
 Reference:
 	->Will be updating as I study each slide
