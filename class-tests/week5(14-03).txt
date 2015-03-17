@@ -29,3 +29,11 @@ Reference:
 		*TKS - 5.3.5 (example of Bayesian Belief Network)
 	->PR-Jan15-06.ppt:
 		*things are still a bit blurry...
+
+
+
+HUM275(Economics) CT-1:
+-----------------------
+prod n factors.docx
+PRODUCTION FUNCTION WITH TWO VARIABLE FACTORS.docx
+Production n productivity.docx
