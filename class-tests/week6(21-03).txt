@@ -1,0 +1,21 @@
+HUM371(Financial and Managerial Accounting) CT-1:
+-------------------------------------------------
+Reference: Managerial Accounting - Garrison / Noreen / Brewer (13th edition)
+
+1. Managerial Accounting -> Cost Concept, Classification
+                         -> Preparation of Cost Sheet, Income Statement
+   Chapter 2 and 5 from book (map with slides)
+   
+   slides and docs:
+   ----------------
+   chap002-1.ppt
+   chap005CostBehavior.ppt
+   Elements of cost and preparation of Cost Sheet.docx
+
+2. CVP (Cost Volume Profit) Analysis:
+   Chapter 6 (map with slides)
+
+   slides and docs:
+   ----------------
+   CVP.ppt
+   Problem on CVPdocx.docx
