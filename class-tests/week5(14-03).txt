@@ -28,8 +28,8 @@ Reference:
 		*DHS - 5.2.1 (the figure of slide 41)
 		*TKS - 5.3.5 (example of Bayesian Belief Network)
 	->PR-Jan15-06.ppt:
-		*things are still a bit blurry...
-
+		*TK - 3.2 and 3.3 should cover what's in the syllabus,
+		      with the exception of a couple of figures.
 
 
 HUM275(Economics) CT-1:
