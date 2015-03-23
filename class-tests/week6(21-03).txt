@@ -19,3 +19,11 @@ Reference: Managerial Accounting - Garrison / Noreen / Brewer (13th edition)
    ----------------
    CVP.ppt
    Problem on CVPdocx.docx
+
+
+CSE409(Computer Graphics) CT-2:
+-------------------------------
+N.B. This syllabus has been taken from madam's website: teacher.buet.ac.bd/fatematz
+
+1. Illumination and color:  Slide, Class Lecture, and book reference - Hill: 8.2.1 - 8.2.6
+2. Texture and Shading:  Slide, Class Lecture, and book reference - Hill: 8.3, 8.5.1, 8.5.3, 8.6 
