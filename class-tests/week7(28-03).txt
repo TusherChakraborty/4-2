@@ -1,0 +1,41 @@
+CSE471(Machine Learning) CT-2:
+------------------------------
+Schedule: 30-03-2015, Monday, 8:00 AM (venue not disclosed yet)
+
+Slides and PDFs: ML05.ppt and ch5.pdf
+
+Book: Tom Mitchell chapter 5
+
+Wikipedia: Wilcoxon signed-rank test
+
+Papers:
+1. Boosting for Learning Multiple Classes with Imbalanced Class Distribution
+   - Sun / Kamel / Wang
+		-> Confusion Matrix from resampling Effects (section 5)
+		-> Accuracy, precision, recall, f-measure, g-mean from
+		   Learning Objectives and Evaluation Measures (section 7.1)
+2. An introduction to ROC analysis
+   - Tom Fawcett
+		-> Classifier performance (section 2)
+		-> ROC space (section 3)
+
+
+
+CSE473(Pattern Recognition) CT-2:
+---------------------------------
+Slides: 8 and 10
+
+Reference Books:
+1. Pattern Recognition 2nd Edition by Theodoridis and Koutroumbas (TK)
+2. Introduction to Data Mining by Tan, Kumar and Steinbach (TKS)
+
+N.B. As usual exact mappings were not possible, so keep slides around
+
+Reference for PR-Jan15-08.ppt:
+	TKS 5.5.2, 5.5.3
+	TK 4.2, 4.3, 4.4
+Reference for PR-Jan15-10.ppt:
+	TK 4.5, 4.6
+	TKS 5.5.4 
+		-> Mercer's theorem was not taught,
+		   but have a look at equations 5.63, 5.64, 5.65
