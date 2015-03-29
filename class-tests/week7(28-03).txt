@@ -2,7 +2,7 @@ CSE471(Machine Learning) CT-2:
 ------------------------------
 Schedule: 30-03-2015, Monday, 8:00 AM (venue not disclosed yet)
 
-Slides and PDFs: ML05.ppt and ch5.pdf
+Slides and PDFs: ML05.ppt, t-test.ppt and ch5.pdf
 
 Book: Tom Mitchell chapter 5
 
