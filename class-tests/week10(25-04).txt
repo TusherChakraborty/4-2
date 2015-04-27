@@ -1,0 +1,16 @@
+CSE409(Computer Graphics) CT-3:
+-------------------------------
+(collected from madam's site)
+
+Syllabus of CT 3:
+
+Rasterization:
+Foley: 3.1, 3.2.1, 3.2.2, 3.3, 3.4, 3.6 (exclude 3.6.3) 
+
+Clipping:
+Foley: 3.12, 3.14.1
+
+
+Antialiasing:
+Foley : Sec 3.17.1 – 3.17.4
+(only short question from antialiasing)
