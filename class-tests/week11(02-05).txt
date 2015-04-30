@@ -1,0 +1,7 @@
+CSE471(Machine Learning) CT-3:
+------------------------------
+Chapter 8 of Tom Mitchell
+
+Slides and ppts:
+	- ch8.pdf
+	- RBF-Network.ppt
