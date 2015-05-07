@@ -1,0 +1,35 @@
+Topic: Edit Distance
+--------------------
+We have to find the minimum distance between two given words.
+If a word is "hello" and another one is "hola", the distance is 3.
+Here's how:
+	-> h common, OK (current cost = 0)
+	-> change e to o (current cost = 1)
+	-> l common, OK (current cost = 1)
+	-> change l to a (current cost = 2)
+	-> delete o (current cost = 3)
+Here I've assumed cost to delete, insert and substitue are same (1).
+
+
+
+Requirements:
+-------------
+Let us assume we will change X to Y.
+
+1.
+--
+There is a DP approach where using len(X)*len(Y) memory we can compute
+the distance, along with the path. We have to bring this one.
+
+2.
+--
+There is a way to find the cost only (not the path) by using
+2*len(X) or 2*len(Y) memory. We to have bring this one too.
+
+3.
+--
+There is another way where using 2*len(X) or 2*len(Y) memory we
+can find both the cost and the path. If we can bring this, that's cool.
+If we can't, that's also cool. But in that case we will have to do
+this as online, where we will be given specific instructions on how to 
+do so.
