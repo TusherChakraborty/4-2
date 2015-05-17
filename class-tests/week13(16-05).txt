@@ -2,4 +2,6 @@ CSE471(Machine Learning) CT-4:
 ------------------------------
 Schedule: 18-03-2015, Monday, 8:00 AM
 
-Reference: chapter 10 of Tom Mitchell
+Reference: chapter 10 of Tom Mitchell (match with contents of slide)
+
+Slide: SetsOfRules (3).ppt
