@@ -1,0 +1,9 @@
+Naive Bayes
+Perceptron
+Back propagation (sec B)
+Edit distance
+	- (m*n, m or n with path, m or n without path)
+Bisecting K means clustering (sec B)
+	- (K, bisecting K=2, n-secting K means)
+Template matching
+	- (correlation, logarithmic, hierarchical)
