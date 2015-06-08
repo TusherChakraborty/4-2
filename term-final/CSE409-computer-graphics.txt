@@ -1,0 +1,46 @@
+Fatema Madam
+------------
+(pending)
+
+Rabban Sir
+----------
+(this syllabus was given directly by him in his webseite)
+
+Textbooks:
+	Computer Graphics: Principles and Practice in C (2nd Edition)
+		by James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes
+		
+	Schaum's Outline of Computer Graphics (2nd Edition)
+		by Zhigang Xiang, Roy A. Plastock
+
+
+Topics:
+	Modeling Transformation
+		Foley: 5.1, 5.2, 5.3, 5.6, 5.7 
+		Schaum: 4.1-4.12, 4.21-4.22, 4.26-4.30, 6.2-6.3, 6.5-6.7, 6.12-6.13 
+		Rodrigues Formula (from slide)
+		Slide: modeling transformation.ppt (slide no. 1-60, 85-101)
+		
+	Projection and View Transformation
+		Foley: 6.1, 6.4
+		Schaum: 7.1, 7.3-7.5, 7.10-7.13
+		Slide: Projection Transformation and View Transformation.ppt (full)
+		
+	Curves
+		Foley: 11.2 (page no. 478-883), 11.2.1, 11.2.2, 11.2.7, 11.2.9 
+		Foley Exercise: 11.3, 11.6, 11.7, 11.11, 11.12, 11.15, 11.22
+		PDF: Catmull Rom Splines.pdf (page no. 1-5)
+		Slide: Curves.ppt (slide no. 1-41)
+		
+	Ray Casting
+		Slide: Ray Casting.ppt (slide no. 1-55)
+		
+	Vector Basics
+		Slide: Vector Tools.ppt (full)
+		
+
+* read the books before the slides.
+* try to solve the problems by yourself first.
+* solve the class test problems. similar problems will appear in the final exam.
+* contact me for any farther query.
+	
