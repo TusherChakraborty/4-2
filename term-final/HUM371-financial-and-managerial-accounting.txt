@@ -11,7 +11,7 @@ Textbook: Accounting Principles 9th ed - Kieso/Kimmel/Weygandt
 2. Basics (chapter 1)
 3. Recording process (chapter 2)
 4. Adjusting the accounts (chapter 3)
-5. Classified balance sheet and closing entries (from chapter 4 - partial)
+5. Classified balance sheet (from chapter 4 - partial)
 6. Forms of financial statements (from chapter 5 - partial)
 7. Ratio analysis (from chapter 18 - partial)
 
@@ -20,10 +20,10 @@ Farhana Madam
 -------------
 Textbook: Managerial Accounting 13th ed - Garrison/Noreen
 
-1. Cost behavior, preparation of cost sheet
-2. Mixed cost analysis approach
-3. Cost volume profit analysis
-4. Standard costing
-5. Cost allocation
-6. Job order costing
-7. Variable vs absorption costing
+1. Cost behavior, preparation of cost sheet (chapter 2)
+2. Mixed cost analysis approach (chapter 5)
+3. Cost volume profit analysis (chapter 6)
+4. Standard costing (chapter 11)
+5. Cost allocation (direct method, stepdown method, reciprocal method)
+6. Job order costing (journal, ledger, income statement - chapter 3)
+7. Variable vs absorption costing (chapter 7)
