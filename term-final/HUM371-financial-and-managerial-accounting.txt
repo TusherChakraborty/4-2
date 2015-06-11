@@ -18,12 +18,19 @@ Textbook: Accounting Principles 9th ed - Kieso/Kimmel/Weygandt
 
 Farhana Madam
 -------------
-Textbook: Managerial Accounting 13th ed - Garrison/Noreen
+Textbook: 
+1. Managerial Accounting 13th ed - Garrison/Noreen
+2. Cost Accounting: A Managerial Emphasis - Horngren/Datar/Rajan
+   https://kuliahdianmardi.files.wordpress.com/2014/09/horngren_cost-accounting-14e.pdf
+
+N.B. Only cost allocation was taught from the second book
+     "Chapter x" in the following means chapter x from book 1,
+         unless otherwise specified
 
 1. Cost behavior, preparation of cost sheet (chapter 2)
 2. Mixed cost analysis approach (chapter 5)
 3. Cost volume profit analysis (chapter 6)
 4. Standard costing (chapter 11)
-5. Cost allocation (direct method, stepdown method, reciprocal method)
+5. Cost allocation (direct method, stepdown method, reciprocal method - book 2 chapter 15)
 6. Job order costing (journal, ledger, income statement - chapter 3)
 7. Variable vs absorption costing (chapter 7)
