@@ -44,3 +44,19 @@ Topics:
 * solve the class test problems. similar problems will appear in the final exam.
 * contact me for any farther query.
 	
+
+further suggestions from Rabban sir:
+------------------------------------
+Some topics discussed in class are not explained in details in the reference books or slides,
+which include:
+- why homogeneous representation is more suitable than cartesian representation for representing transformations.
+- proof of the properties of rotation matrices.
+- why parametric polynomials of degree of at least 3 are required to represent non-planar curves in 3D.
+Depend on class lectures for the above problems.
+
+Solve the following problems.
+Derive the composite transformation matrix that transforms:
+(1) A(1,2), B(3,2), C(3,5), D(1,5) to A'(3,2), B'(3,5), C'(1,5), D'(1,2) respectively
+(2) A(0,a), B(-a,0), C(a,0) to A'(a,a), B'(0,a) ,C'(a,0) respectively 
+(3) A(0,a), B(-a,0), C(a,0) to A'(0,a), B'(0,-a) ,C'(a,0) respectively
+(4) A(2,1), B(7,1), C(7,4), D(2,4) to A'(2,1), B'(7,0), C'(9,3), D'(4,4) respectively (Hint: simultaneous shearing can be used. observe that simultaneous shearing transforms rectangles into parallelograms.)
