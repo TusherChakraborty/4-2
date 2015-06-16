@@ -27,7 +27,7 @@ Topics:
 		Slide: Projection Transformation and View Transformation.ppt (full)
 		
 	Curves
-		Foley: 11.2 (page no. 478-883), 11.2.1, 11.2.2, 11.2.7, 11.2.9 
+		Foley: 11.2 (page no. 478-483), 11.2.1, 11.2.2, 11.2.7, 11.2.9 
 		Foley Exercise: 11.3, 11.6, 11.7, 11.11, 11.12, 11.15, 11.22
 		PDF: Catmull Rom Splines.pdf (page no. 1-5)
 		Slide: Curves.ppt (slide no. 1-41)
