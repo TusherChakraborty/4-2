@@ -37,6 +37,9 @@ Topics:
 		
 	Vector Basics
 		Slide: Vector Tools.ppt (full)
+		N.B. although sir did not give any reference for this, there
+		     is actually a chapter in Hill named "Vector Tools for Graphics"
+		     (chapter 4 of second edition)
 		
 
 * read the books before the slides.
