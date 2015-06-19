@@ -1,6 +1,48 @@
 Fatema Madam
 ------------
-(pending)
+(I was hoping Fatema madam would give a syllabus by this time....
+ since that is not the case here's a rough sketch.
+ Consider this to be a syllabus under construction unless stated as final.
+ She did personally tell me once she would post the answers to first class test.
+ I vaguely remember her telling in the class she would provide a syllabus too.
+ So I am actually still hoping to get one, even if it is late.)
+
+Textbooks:
+	Computer Graphics using OpenGL (2nd/3rd)
+		N.B. the following references are from 2nd
+		- F. S. Hill Jr.
+
+Computer Graphics: Principles and Practice in C (2nd Edition)
+		by James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes
+	
+Topics:
+	Illumination and Color
+		Slide
+		Hill 8.2.1 - 8.2.6
+
+	Texture and Shading
+		Slide
+		Hill 8.3, 8.5.1, 8.5.3, 8.6
+	
+	Rasterization
+		Slide
+		Foley 3.1, 3.2.1, 3.2.2, 3.3, 3.4, 3.6 (exclude 3.6.3)
+
+	Clipping
+		Slide
+		Foley 3.12, 3.14.1
+
+	Antialiasing
+		Slide
+		Foley 3.17.1 - 3.17.4
+
+	Hidden Surface Removal
+		Slide
+		Foley 15.2.4, 15.4, 15.5.1, 15.5.2, 15.6
+
+	Fractals
+		Slide
+		Hill 9.1 - 9.3, 9.6, 9.7
 
 Rabban Sir
 ----------
