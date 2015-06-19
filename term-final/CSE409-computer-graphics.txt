@@ -1,11 +1,6 @@
 Fatema Madam
 ------------
-(I was hoping Fatema madam would give a syllabus by this time....
- since that is not the case here's a rough sketch.
- Consider this to be a syllabus under construction unless stated as final.
- She did personally tell me once she would post the answers to first class test.
- I vaguely remember her telling in the class she would provide a syllabus too.
- So I am actually still hoping to get one, even if it is late.)
+(as given by Fatema madam on her website)
 
 Textbooks:
 	Computer Graphics using OpenGL (2nd/3rd)
@@ -18,11 +13,11 @@ Computer Graphics: Principles and Practice in C (2nd Edition)
 Topics:
 	Illumination and Color
 		Slide
-		Hill 8.2.1 - 8.2.6
+		Hill(3rd/2nd) 8.2.1 - 8.2.6
 
 	Texture and Shading
 		Slide
-		Hill 8.3, 8.5.1, 8.5.3, 8.6
+		Hill(3rd/2nd) 8.3, 8.5.1, 8.5.3, 8.6
 	
 	Rasterization
 		Slide
@@ -42,7 +37,7 @@ Topics:
 
 	Fractals
 		Slide
-		Hill 9.1 - 9.3, 9.6, 9.7
+		Hill(2nd) 9.1 - 9.3, 9.6, 9.7
 
 Rabban Sir
 ----------
