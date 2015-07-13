@@ -1,0 +1,5 @@
+05/08/2015(Wednesday) - CSE409(Computer Graphics)
+10/08/2015(Monday) - HUM371(Financial and Managerial Accounting)
+16/08/2015(Sunday) - HUM275(Economics)
+20/08/2015(Thursday) - CSE471(Machine Learning)
+26/08/2015(Wednesday) - CSE473(Pattern Recognition)
