@@ -1,0 +1,32 @@
+/*Partial syllabus, check back again for updates*/
+
+!!!  I'm pretty sure I'm missing a few things here,
+     can anyone chip in?
+
+
+Reference Book: Machine Learning by Tom Mitchell
+---------------
+Chapters(slides/pdfs):
+1(ch1.pdf)
+2(Ch02.ppt, ch2.pdf)
+3(ch3.pdf)
+5(ch5.pdf, ML05.ppt, t-test.ppt)
+7
+8(ch8.pdf, RBF-Network.ppt)
+10(SetsOfRules.ppt)
+13(Q-Learn-Convergence.ppt, RL-1.ppt)
+
+Links, PPTs and PDFs:
+---------------------
+N.B. These are the materials which don't really go
+     with the topic of the book directly, rather fits
+     a bit tangentially
+
+*Wilcoxon Signed-Rank Test -
+	https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test
+*ROCintro.pdf -
+	An Introduction to ROC Analysis - Tom Fawcett
+*ImbalancedClassDistribution.pdf - 
+	Boosting for Learning Multiple Classes with Imbalanced Class Distribution
+		- Sun, Kamel and Wang
+*Semi-Supervise_Learning.ppt
