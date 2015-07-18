@@ -30,3 +30,34 @@ N.B. These are the materials which don't really go
 	Boosting for Learning Multiple Classes with Imbalanced Class Distribution
 		- Sun, Kamel and Wang
 *Semi-Supervise_Learning.ppt
+
+Questions of Class Test
+-----------------------
+N.B. CT2 missing
+
+CT1
+---
+1. Draw a flowchart showing different components of a learning machine		(05)
+2. What are the problems associated with Find-S algorithm?
+   Give some ideas how you could avoid these problems.				(05)
+3. Which characteristics of a problem are necessary for decision tree learning?
+   Explain them briefly.							(05)
+
+CT3
+---
+1. You are given a set of two dimensional inputs and their corresponding output pair:
+   {X_(i,1), X_(i,2), y_i}. We like to use the following locally weighted regression
+   model to predict y:
+   	y_i = w_0 + ((w_1)^2)(x_(1,i)) + ((w_2)^2)(x_(2,i))			(10)
+   Derive the optimal value of w_1 for minimizing the mean-squared-error
+   (w_0 and w_2 may appear in your resulting equation). Note that there may be more
+   than one possible value of w_1
+2. What is the main shortcoming of the k-nearest neighbor algorithm?
+   Give some intuitive ideas for avoiding it.					(05)
+
+CT4
+---
+1. Write the pseudocode for sequential covering algorithm.
+   Discuss the advantages and problems of this algorithm.			(10)
+2. Explain why learning first-order rules are more powerful
+   than propositional rules.							(05)
