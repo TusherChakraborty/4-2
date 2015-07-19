@@ -42,7 +42,7 @@ N.B. These are the materials which don't really go
 	- concept evolution
 	- recurrent class
 * Genetic Programming (Materials were given, but no one has uploaded yet)
-* SMOTE (synthetic over sampling technique) + ADASYN
+* SMOTE (synthetic over sampling technique) + ADASYN (Materials were given, but no one has uploaded yet)
 	
 
 
