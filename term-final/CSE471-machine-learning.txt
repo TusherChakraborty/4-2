@@ -16,6 +16,9 @@ Chapters(slides/pdfs):
 10(SetsOfRules.ppt)
 13(Q-Learn-Convergence.ppt, RL-1.ppt)
 
+
+
+
 Links, PPTs and PDFs:
 ---------------------
 N.B. These are the materials which don't really go
@@ -30,6 +33,12 @@ N.B. These are the materials which don't really go
 	Boosting for Learning Multiple Classes with Imbalanced Class Distribution
 		- Sun, Kamel and Wang
 *Semi-Supervise_Learning.ppt
+*Simultaneous Learning of Negatively Correlated Neural Networks
+	- Yong Liu and Xin Yao
+	  (http://www.mediafire.com/view/t0w9cqf76jlg190/liu_acnn98.pdf)
+	
+
+
 
 Questions of Class Test
 -----------------------
