@@ -96,4 +96,5 @@ Lecture 10: Euler's Theorem
           (Sir said this class was important)
 
 Lecture 11: Economic Planning in Bangladesh
-            (One question will come from this class)
+		- Economic Planning in Bangladesh.docx
+          (One question will come from this class)
