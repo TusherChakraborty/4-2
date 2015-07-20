@@ -81,15 +81,19 @@ Lecture 6: Equilibrium of the Firm under Perfect Equilibrium
 (one question will come from market (5+6))
 
 Lecture 7: Meaning of National Income
+		- NI-7.docx
 
 Lecture 8: Measurement of National Income
-		- (measuring national income in a particular method)
+		- NI-8.docx
+		  (measuring national income in a particular method)
 (one question MIGHT come from National Income)
 
 Lecture 9: Inflation
+		- Inflation-9.docx
 
-Lecture 10: ??? 30/05/2015
-            (Sir said this class was important)
+Lecture 10: Euler's Theorem
+		- EULER'S Theorem.docx
+          (Sir said this class was important)
 
 Lecture 11: Economic Planning in Bangladesh
             (One question will come from this class)
