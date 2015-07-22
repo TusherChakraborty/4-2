@@ -1,9 +1,3 @@
-/*Partial syllabus, check back again for updates*/
-
-!!!  I'm pretty sure I'm missing a few things here,
-     can anyone chip in?
-
-
 Reference Book: Machine Learning by Tom Mitchell
 ---------------
 Chapters(slides/pdfs):
@@ -27,22 +21,33 @@ N.B. These are the materials which don't really go
 
 * Wilcoxon Signed-Rank Test -
 	https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test
+
 * ROCintro.pdf -
 	An Introduction to ROC Analysis - Tom Fawcett
+
 * ImbalancedClassDistribution.pdf - 
-	Boosting for Learning Multiple Classes with Imbalanced Class Distribution
-		- Sun, Kamel and Wang
-* Semi-Supervise_Learning.ppt
-* Simultaneous Learning of Negatively Correlated Neural Networks
-	- Yong Liu and Xin Yao
-	  (http://www.mediafire.com/view/t0w9cqf76jlg190/liu_acnn98.pdf)
+	Boosting for Learning Multiple Classes with Imbalanced Class Distribution by Sun, Kamel and Wang
+
+* Semi-supervised Learning
+	- Semi-Supervised_Learning.ppt
+	- ch3 SemiSupL.pdf
+
+* liu_acnn98.pdf -
+	Simultaneous Learning of Negatively Correlated Neural Networks by Yong Liu and Xin Yao
+
 * Online Learning (no materials were provided, but following topics were discussed in class):
 	- multi label
 	- concept drift
 	- concept evolution
 	- recurrent class
-* Genetic Programming (Materials were given, but no one has uploaded yet)
-* SMOTE (synthetic over sampling technique) + ADASYN (Materials were given, but no one has uploaded yet)
+
+* Genetic Programming
+	- GP.ppt
+
+* Imbalanced Data and (Inductive) Learning from Imbalanced Data Sets
+	- Class-Imbalances.ppt
+	- MWMOTE-May82013.ppt
+	- lecture10-imbalanced.pptx
 	
 
 
