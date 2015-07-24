@@ -5,7 +5,7 @@ Chapters(slides/pdfs):
 2(Ch02.ppt, ch2.pdf)
 3(ch3.pdf)
 5(ch5.pdf, ML05.ppt, t-test.ppt)
-7
+7(ch7.pdf)
 8(ch8.pdf, RBF-Network.ppt)
 10(SetsOfRules.ppt)
 13(Q-Learn-Convergence.ppt, RL-1.ppt)
@@ -34,6 +34,9 @@ N.B. These are the materials which don't really go
 
 * liu_acnn98.pdf -
 	Simultaneous Learning of Negatively Correlated Neural Networks by Yong Liu and Xin Yao
+
+* published_tsmcB_dec99.pdf -
+	Simultaneous Learning of Negatively Correlated Neural Networks in an Ensemble by Yong Liu and Xin Yao
 
 * Online Learning (no materials were provided, but following topics were discussed in class):
 	- multi label
