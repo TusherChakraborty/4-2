@@ -18,7 +18,7 @@ chapter 3
 ---------
 comprehensive problem (Terry Thomas) - page 118
 class problem of adjusting entry
-	- matches with P3-1A (monetary units vary in a few places)
+	- matches with P3-1A[a,c] (monetary units vary in a few places)
 E3-4 (Emeril Corporation) - page 127
 E3-7 (Piper Rental Agency) - page 128
 
