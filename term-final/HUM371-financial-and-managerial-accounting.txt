@@ -16,7 +16,9 @@ Textbook: Accounting Principles 9th ed - Kieso/Kimmel/Weygandt
 4. Adjusting the accounts (chapter 3)
 	- ch03-121201162952-phpapp01
 5. Classified balance sheet (from chapter 4 - partial)
+	- The Classified Balance Sheet
 6. Forms of financial statements (from chapter 5 - partial)
+	- Forms of Financial Statements
 7. Ratio analysis (from chapter 18 - partial)
 	- Ratio math.docx
 	- RAtio.pptx
