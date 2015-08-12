@@ -19,6 +19,12 @@ N.B. These are the materials which don't really go
      with the topic of the book directly, rather fits
      a bit tangentially
 
+     [***
+	Maruf Zaber has compiled a list containing the parts
+	that we should read from the papers/slides. Once he forwards
+	me the contents I'll update related parts.
+     ***]
+
 * Wilcoxon Signed-Rank Test -
 	https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test
 
