@@ -19,20 +19,32 @@ N.B. These are the materials which don't really go
      with the topic of the book directly, rather fits
      a bit tangentially
 
-     [***
-	Maruf Zaber has compiled a list containing the parts
-	that we should read from the papers/slides. Once he forwards
-	me the contents I'll update related parts.
-     ***]
+DISCLAIMER: The specifications regarding what parts should be read from the following topics
+            were provided by Maruf Zaber. Neither me nor Zaber will be held accountable for
+            any discrepancy between the set question and the portions delineated here. Finding
+            out exactly what parts were taught from lectures is a rigorous task which Zaber
+            did with great excellence. That being said, the reader is requested to keep in mind
+            that Sir was quite vague regarding what parts should be read exactly, he sort of
+            touched a few things and said to go through the papers - to what extent is unclear.
 
 * Wilcoxon Signed-Rank Test -
 	https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test
+		-Introduction
+		-Assumptions
+		-Test Procedure
+		-Effect Size
 
 * ROCintro.pdf -
 	An Introduction to ROC Analysis - Tom Fawcett
+		-Introduction
+		-Classifier performance
+		-ROC space
 
 * ImbalancedClassDistribution.pdf - 
 	Boosting for Learning Multiple Classes with Imbalanced Class Distribution by Sun, Kamel and Wang
+		-Abstract
+		-Introduction
+		-7.1 Leaning Objectives and Evaluation Measures
 
 * Semi-supervised Learning
 	- Semi-Supervised_Learning.ppt
@@ -52,11 +64,15 @@ N.B. These are the materials which don't really go
 
 * Genetic Programming
 	- GP.ppt
+		-slides 1 to 22
 
 * Imbalanced Data and (Inductive) Learning from Imbalanced Data Sets
 	- Class-Imbalances.ppt
+		-slides 1 to 18
 	- MWMOTE-May82013.ppt
+		-slides 1 to 36
 	- lecture10-imbalanced.pptx
+		-slides 1 to 9
 	
 
 
