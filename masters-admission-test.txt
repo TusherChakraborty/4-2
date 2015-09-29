@@ -1,0 +1,31 @@
+Ok, so I'm running low on both facts and ideas...everybody chip in please :)
+If anyone has talked to immediate seniors about the admission test, kindly get in touch with me via gmail (saquib2527).
+I'll update the contents accordingly,
+
+What I gathered talking to Taufiq Vai
+-------------------------------------
+1. Read the slides
+2. Network/communication - TCP/UDP/IP address important
+3. Computer architecture - pipelining important
+4. Structural programming/OOP - go back to basics (like when we used to write our own strcpy)
+                                know the "grammar" (I guess inheritance/polymorphism/overloading etc.)
+
+* 30 questions (2 from each topic - see CSE notice board for list) each having 5 marks: (5 * 30 = 150)
+* if you manage to get 40 out of 150 (yes, that's 40 - not 140) you are pretty much getting into masters program
+* the highest marks is generally around 80 (so 40 isn't that low actually :p)
+
+
+What I'm studying
+-----------------
+(seriously, give me some suggestions here...including whether it's becoming overkill) 
+
+1. DLD:
+	- function implementation, function reduction using K-map
+	- Flip Flops
+	- Counters
+
+2. Database:
+	- basic queries
+	- constraints
+	- ER diagram
+	- ACID principle
