@@ -44,6 +44,8 @@ What I'm studying
 
 6. Computer Architecture
 	- pipelining
+	- virtual address
+	- cache
 
 7. OS:
 	- basics
@@ -54,3 +56,4 @@ What I'm studying
 Acknowledgements
 ----------------
 - Arefin shared information learnt from Ashik Azim Sir(07) [updated]
+- Sunny suggested virtual address and cache [updated]
