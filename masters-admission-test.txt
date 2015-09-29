@@ -25,7 +25,32 @@ What I'm studying
 	- Counters
 
 2. Database:
+	- CRUD
+	- read ahead/ write ahead
 	- basic queries
 	- constraints
 	- ER diagram
 	- ACID principle
+
+3. Algorithm:
+	- basic algos like sorting/bfs/dfs
+
+4. OOP:
+	- basics
+	- implementing java method (so we can infer that language specific questions might actually come)
+
+5. ISD:
+	- design patterns (Ashik Azim Sir recommended not to study, as chances are we won't be able to answer them anyways :p)
+
+6. Computer Architecture
+	- pipelining
+
+7. OS:
+	- basics
+
+
+
+
+Acknowledgements
+----------------
+- Arefin shared information learnt from Ashik Azim Sir(07) [updated]
