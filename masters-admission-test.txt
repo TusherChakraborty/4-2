@@ -2,25 +2,19 @@ Ok, so I'm running low on both facts and ideas...everybody chip in please :)
 If anyone has talked to immediate seniors about the admission test, kindly get in touch with me via gmail (saquib2527).
 I'll update the contents accordingly.
 
-What I gathered talking to Taufiq Vai
--------------------------------------
-1. Read the slides
-2. Network/communication - TCP/UDP/IP address important
-3. Computer architecture - pipelining important
-4. Structural programming/OOP - go back to basics (like when we used to write our own strcpy)
-                                know the "grammar" (I guess inheritance/polymorphism/overloading etc.)
-
+General Info
+------------
 * 30 questions (2 from each topic - see CSE notice board for list) each having 5 marks: (5 * 30 = 150)
+* (??)90 minutes time (each question 3 minutes - that's tough)
 * if you manage to get 40 out of 150 (yes, that's 40 - not 140) you are pretty much getting into masters program
 * the highest marks is generally around 80 (so 40 isn't that low actually :p)
 
 
-What I'm studying
------------------
-(seriously, give me some suggestions here...including whether it's becoming overkill) 
-
+Tentative Lesson Plan
+---------------------
 1. DLD:
 	- function implementation, function reduction using K-map
+	- comparator design
 	- Flip Flops
 	- Counters
 
@@ -33,18 +27,21 @@ What I'm studying
 	- ACID principle
 
 3. Algorithm:
-	- basic algos like sorting/bfs/dfs(DFS traversal)
+	- basic algos like sorting/bfs/dfs
+	- in general simulations might come (last year merge sort and DFS traversal was given)
 
 4. OOP:
-	- basics
 	- implementing java method (so we can infer that language specific questions might actually come)
+	- finding errors in a given code
+	- function overloading and overriding difference
+	- friend function
 
 5. ISD:
 	- design patterns (Ashik Azim Sir recommended not to study, as chances are we won't be able to answer them anyways :p)
 
 6. Computer Architecture
 	- pipelining
-	- virtual address
+	- virtual memory/address
 	- cache
 
 7. OS:
@@ -59,8 +56,26 @@ What I'm studying
 10. Data Structure:
 	- post/pre/in-order traversal of BST
 
+11. Software Engineering:
+	- Critical Path Method (CPM) and PERT chart
+
+12. Network Comm:
+	- TCP/UDP
+	- IP address
+
+13. Compiler and Automata:
+	- Deterministic Finite Automata (DFA)
+	- Non-deterministic Finite Automata (NFA)
+	- Regular Expression
+	- Context Free Grammar
+	- Parse tree
+
+14. AI:
+
+15. Microprocessor/Microcontroller:
+
 Acknowledgements
 ----------------
 - Arefin shared information learnt from Ashik Azim Sir(07) [updated]
-- Sunny suggested virtual address/cache [updated]
+- Sunny gave a couple of suggestions [updated]
 - Rizvi shared information learnt from Azad Vai [updated]
