@@ -26,14 +26,14 @@ What I'm studying
 
 2. Database:
 	- CRUD
-	- read ahead/ write ahead
+	- write ahead
 	- basic queries
 	- constraints
 	- ER diagram
 	- ACID principle
 
 3. Algorithm:
-	- basic algos like sorting/bfs/dfs
+	- basic algos like sorting/bfs/dfs(DFS traversal)
 
 4. OOP:
 	- basics
@@ -50,10 +50,17 @@ What I'm studying
 7. OS:
 	- basics
 
+8. Structural Programming:
+	- #define in C
 
+9. Discrete Math:
+	- pigeonhole principle
 
+10. Data Structure:
+	- post/pre/in-order traversal of BST
 
 Acknowledgements
 ----------------
 - Arefin shared information learnt from Ashik Azim Sir(07) [updated]
-- Sunny suggested virtual address and cache [updated]
+- Sunny suggested virtual address/cache [updated]
+- Rizvi share information learnt from Azad Vai [updated]
