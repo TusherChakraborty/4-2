@@ -63,4 +63,4 @@ Acknowledgements
 ----------------
 - Arefin shared information learnt from Ashik Azim Sir(07) [updated]
 - Sunny suggested virtual address/cache [updated]
-- Rizvi share information learnt from Azad Vai [updated]
+- Rizvi shared information learnt from Azad Vai [updated]
