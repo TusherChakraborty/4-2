@@ -62,6 +62,8 @@ Tentative Lesson Plan
 12. Network Comm:
 	- TCP/UDP
 	- IP address
+	- Hamming Code
+	- Sliding Window Protocol
 
 13. Compiler and Automata:
 	- Deterministic Finite Automata (DFA)
